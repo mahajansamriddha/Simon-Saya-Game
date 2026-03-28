@@ -1,2 +1,21 @@
-# Simon-Saya-Game
-Simon Says Game is a memory-based game where the player must repeat a sequence of colors or actions shown by the game.
+# Simon Says Game
+
+## Description
+This is a memory-based game where the player repeats a sequence of colors.
+
+## Features
+- Easy to play
+- Increases difficulty
+- Fun and interactive
+
+## How to Run
+1. Clone the repository
+2. Open index.html
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Samriddha Mahajan
