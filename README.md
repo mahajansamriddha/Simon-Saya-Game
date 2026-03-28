@@ -1,5 +1,4 @@
 # Simon Says Game
-
 ## Description
 This is a memory-based game where the player repeats a sequence of colors.
 
