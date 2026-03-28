@@ -19,6 +19,6 @@ This is a memory-based game where the player repeats a sequence of colors.
 ## Author
 Samriddha Mahajan
 
-##Project 
+## Project 
 This project is a simple implementation of the classic "Simon Says" game.
 
